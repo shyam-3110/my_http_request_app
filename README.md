@@ -11,3 +11,8 @@ When you press CLICK UP counter will increace and when you press CLICK DOWN coun
 
 # my_http_request_app
 this is my http request app that i have build as a assignment 2
+
+<p align="center">
+  <img src="https://github.com/shyam-3110/my_http_request_app/blob/master/screenshots/httprequest/Screenshot_Photos_20180421-174852.png" width="350"/>
+  <img src="https://github.com/shyam-3110/my_http_request_app/blob/master/screenshots/httprequest/Screenshot_Photos_20180421-174901.png" width="350"/>
+</p>
