@@ -8,11 +8,6 @@ When you press CLICK UP counter will increace and when you press CLICK DOWN coun
   <img src="your_relative_path_here_number_2_large_name" width="350"/>
 </p>
 
-![alt text](https://github.com/shyam-3110/my_http_request_app/blob/master/screenshots/myclicker/Screenshot_myClicker_20180421-181029.png)
-![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/3.png)
-![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/4.png)
-![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/5.png)
-![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/1.png)
 
 # my_http_request_app
 this is my http request app that i have build as a assignment 2
