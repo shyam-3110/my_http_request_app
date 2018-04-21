@@ -4,7 +4,7 @@ This is basically counter app
 
 When you press CLICK UP counter will increace and when you press CLICK DOWN counter will decrease and when you press RESET counter will reset.
 
-![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/2.png)
+![alt text](https://github.com/shyam-3110/my_http_request_app/blob/master/screenshots/myclicker/Screenshot_myClicker_20180421-181029.png)
 ![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/3.png)
 ![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/4.png)
 ![alt text](https://github.com/shyam-3110/Flag_Quiz/blob/master/ScreenShot/5.png)
